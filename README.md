@@ -8,7 +8,7 @@
 -Escenario Elegido
 **Escenario D:** Estadísticas de Resultados Deportivos. El objetivo es procesar los resultados de los partidos para generar indicadores de rendimiento y tablas de posiciones [5, 6].
 
--Descripción del Dataset
+-Descripción del Dataset:
 Se utiliza el archivo `datos/Book(Liga Argentina).csv`, el cual contiene registros de partidos con las siguientes columnas:
 * `Fecha`: Día del encuentro.
 * `Equipo local` / `Equipo visitante`: Equipos enfrentados.
