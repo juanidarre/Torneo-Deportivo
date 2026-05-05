@@ -14,14 +14,14 @@ Se utiliza el archivo `datos/Book(Liga Argentina).csv`, el cual contiene registr
 * `Equipo local` / `Equipo visitante`: Equipos enfrentados.
 * `Goles local` / `Goles visitante`: Marcadores del partido.
 
--Estructura del Repositorio
-Siguiendo los mandatos de gobernanza, el repositorio se organiza de la siguiente manera [7, 8]:
+-Estructura del Repositorio:
+Siguiendo los mandatos de gobernanza, el repositorio se organiza de la siguiente manera:
 * `/datos`: Archivo CSV con los datos crudos.
 * `/scripts`: Código en Python para el procesamiento.
 * `/resultados`: Productos generados (Gráfico de victorias y Tabla de posiciones CSV).
 
 -Instrucciones de Ejecución
-Para reproducir el análisis en este entorno de Google Colab, ejecute el siguiente comando [3, 9]:
+Para reproducir el análisis en este entorno de Google Colab, ejecute el siguiente comando:
 
 ```python
 !python scripts/analisis_deportivo.py
